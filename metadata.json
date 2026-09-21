@@ -1,0 +1,6 @@
+{
+  "name": "Bijoy to Unicode Converter",
+  "description": "বিজয় (SutonnyMJ/ANSI), টেক্সট, PDF ও স্ক্যান করা ছবি থেকে নিখুঁত বাংলা ইউনিকোডে রূপান্তর, AI রিপেয়ার ও গুগল ড্রাইভ ব্যাকআপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
