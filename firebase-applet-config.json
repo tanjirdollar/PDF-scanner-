@@ -1,12 +1,12 @@
 {
-  "projectId": "peaceful-crane-5mn89",
-  "appId": "1:605491403308:web:391650eac4f9b4c3b94f89",
-  "apiKey": "AIzaSyAuE4Vh6QMnQ_rSbZYvlbMO95keNA4h3I8",
-  "authDomain": "peaceful-crane-5mn89.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-bijoytounicodefi-326204ac-9d23-4798-8bb6-9ca3df8452a8",
-  "storageBucket": "peaceful-crane-5mn89.firebasestorage.app",
-  "messagingSenderId": "605491403308",
+  "projectId": "scanne-bijoy",
+  "appId": "1:858072248658:web:61112e7095394a6b80ca8b",
+  "apiKey": "AIzaSyDnb1i8POqU5lu8AJ8DVsjBqTGkPlciLhQ",
+  "authDomain": "scanne-bijoy.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "scanne-bijoy.firebasestorage.app",
+  "messagingSenderId": "858072248658",
   "measurementId": "",
-  "oAuthClientId": "605491403308-o7u3enk6pb2ji8lngtaf9i5j5kja3518.apps.googleusercontent.com",
+  "oAuthClientId": "564360075572-cfi2jhk6i4hcg0r0rt7mv86qe2bhtssn.apps.googleusercontent.com",
   "recaptchaSiteKey": ""
 }
